@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Gideon Glady K — Engineering Field Notes</title>
+  <desc id="desc">A dark technical notebook-inspired banner with a system map connecting infrastructure, evidence integrity, and community response.</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#263344" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111827"/>
+      <stop offset="1" stop-color="#0b1220"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#fade)"/>
+  <rect width="1200" height="300" rx="18" fill="url(#grid)" opacity=".9"/>
+  <rect x="38" y="35" width="5" height="230" rx="2" fill="#a3e635"/>
+  <text x="68" y="66" fill="#a3e635" font-family="monospace" font-size="15" letter-spacing="3">ENGINEERING FIELD NOTES / 2026</text>
+  <text x="68" y="127" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="700">Gideon Glady K</text>
+  <text x="70" y="164" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="19">I build software around real-world workflows.</text>
+  <text x="70" y="211" fill="#94a3b8" font-family="monospace" font-size="13">01  INFRASTRUCTURE</text>
+  <text x="70" y="233" fill="#94a3b8" font-family="monospace" font-size="13">02  EVIDENCE INTEGRITY</text>
+  <text x="70" y="255" fill="#94a3b8" font-family="monospace" font-size="13">03  COMMUNITY RESPONSE</text>
+  <g stroke="#a3e635" stroke-width="1.5" fill="none" opacity=".95">
+    <path d="M710 94 H820 V145 H900"/>
+    <path d="M710 145 H790 V198 H900"/>
+    <path d="M710 198 H820 V245 H900"/>
+    <path d="M900 145 H960 V170 H1010"/>
+    <path d="M900 198 H960 V170"/>
+  </g>
+  <g fill="#111827" stroke="#a3e635" stroke-width="1.5">
+    <rect x="610" y="76" width="100" height="36" rx="6"/>
+    <rect x="610" y="127" width="100" height="36" rx="6"/>
+    <rect x="610" y="180" width="100" height="36" rx="6"/>
+    <rect x="900" y="128" width="60" height="36" rx="6"/>
+    <rect x="1010" y="152" width="140" height="36" rx="6"/>
+  </g>
+  <g fill="#e2e8f0" font-family="monospace" font-size="11" text-anchor="middle">
+    <text x="660" y="98">ISSUES</text>
+    <text x="660" y="149">HASHES</text>
+    <text x="660" y="202">REQUESTS</text>
+    <text x="930" y="150">API</text>
+    <text x="1080" y="174">SYSTEMS</text>
+  </g>
+  <g fill="#a3e635">
+    <circle cx="710" cy="94" r="3"/>
+    <circle cx="710" cy="145" r="3"/>
+    <circle cx="710" cy="198" r="3"/>
+    <circle cx="900" cy="145" r="3"/>
+    <circle cx="900" cy="198" r="3"/>
+  </g>
+  <text x="1150" y="274" fill="#64748b" font-family="monospace" font-size="10" text-anchor="end">PROBLEM → MODEL → IMPLEMENTATION</text>
+</svg>
