@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/engineering-field-notes.svg" alt="Gideon Glady K — Engineering Field Notes" width="100%">
+<img src="engineering-field-notes.svg" alt="Gideon Glady K — Engineering Field Notes" width="100%">
 
 <br>
 
